@@ -1,0 +1,8 @@
+{
+  "name": "agent-control-center",
+  "version": 2,
+  "public": true,
+  "github": {
+    "enabled": false
+  }
+}
